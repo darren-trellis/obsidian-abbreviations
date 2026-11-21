@@ -2,13 +2,6 @@
 
 An Obsidian plugin that treats a note property as extra aliases, so you can find notes by their abbreviations in [Omnisearch](https://github.com/scambier/obsidian-omnisearch), the quick switcher and `[[` link suggestions.
 
-```yaml
----
-aliases: [Mortal Kombat 1]
-abbreviations: [MK1, MK12]
----
-```
-
 With the property name set to `abbreviations`, searching for `MK1` finds this note.
 
 ## How it works
