@@ -1,0 +1,8 @@
+node_modules
+dist
+data.json
+package-lock.json
+*.map
+.DS_Store
+.vscode
+.idea

@@ -1,0 +1,9 @@
+{
+  "id": "abbreviations",
+  "name": "Abbreviations",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Treats a note property as extra aliases, so notes can be found by their abbreviations.",
+  "author": "darren-trellis",
+  "isDesktopOnly": false
+}
